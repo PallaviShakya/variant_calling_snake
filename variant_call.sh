@@ -3,8 +3,8 @@
 #SBATCH -e out.erri
 #SBATCH -o Test-Job-%j.output
 #SBATCH --mail-type=ALL
-#SBATCH --mail-user=pshakya@ucdavis.edu
-#SBATCH --account=datalabgrp
+#SBATCH --mail-user=dumdumdum@ucdavis.edu
+#SBATCH --account=grpname
 #SBATCH --partition=med2
 #SBATCH --time=20-7:00:00
 #SBATCH --cpus-per-task=10

@@ -1,0 +1,8 @@
+# Ignore everything 
+*
+
+# But don't ignore these 
+!*.sh
+!config.yaml
+!snakefile
+!README.md
